@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "133529124403",
+    "project_id": "talkdeals-ddaa8",
+    "storage_bucket": "talkdeals-ddaa8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133529124403:android:d37a1d051e2550ce5aad46",
+        "android_client_info": {
+          "package_name": "com.example.talkdeals"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkkq4iCJ-eCn0WqRB9Hq8Pn0QSEpWLsyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
